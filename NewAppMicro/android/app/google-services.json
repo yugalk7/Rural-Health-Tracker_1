@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214948289247",
+    "project_id": "newappmicro",
+    "storage_bucket": "newappmicro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214948289247:android:d3e5e2205a805e590d276a",
+        "android_client_info": {
+          "package_name": "com.example.new_app_micro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_sQ8uWf3uM3BLXy4Dd2BjTTvd281GC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
